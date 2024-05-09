@@ -86,3 +86,7 @@ The value placed on position groups varies in sports contracts. Typically, star 
 
 ### External Validation
 Based on our data and comparing it to the article, it would suggest that since there was a low correlation between AAV and WAR (r-squared = 0.002, p-value=0.75) which would suggest that perhaps using WAR to aid financial decisions would be beneficial and eventually shift the market into a positive correlation. This would mean that teams with “deep pockets” would be making more efficient decisions with their money. We cannot conclude, however, how that would affect the breakdown of total contract value per position type.
+
+## References
+- Baseball-Reference.com: MLB Stats, Scores, History, & Records, https://www.baseball-reference.com/. Accessed 24 April 2024.
+- “MLB Contracts.” Spotrac.com, https://www.spotrac.com/mlb/contracts. Accessed 24 April 2024.
