@@ -52,15 +52,17 @@ https://public.tableau.com/app/profile/justin.ziolkowski/vizzes
 
 #### Image #1 - Scatterplot
 ##### Answering Question 1
-This shows AAV by WAR with players as the detail. It also includes a median for both WAR and for AAV. In our MLB analysis, examining tplayers' performance relative to WAR is vital for gauging resource efficiency. Detailing Average Annual Value (AAV) by WAR, alongside median values, aids in comparing individual player data, revealing the correlation between salary and on-field contribution.
+This shows AAV by WAR with players as the detail. It also includes a median for both WAR and for AAV. In our MLB analysis, examining tplayers' performance relative to WAR is vital for gauging resource efficiency. Detailing Average Annual Value (AAV) by WAR, alongside median values, aids in comparing individual player data, revealing the correlation between salary and on-field contribution. Through this we can conclude, with a p-value of 0.75 and an r-squared of 0.002 that there is a weak correlation between AAV and player war. We should also note the median player WAR is 3.4 to a median AAV of $25.14 million. 
+
 
 #### Image #2 - Cluster Graph
 ##### Answering Question 2
-This a graph of AAV/years with players as the detail, size as total contract value, clusters to show any potential trends within this, and team labels. This graph, plotting AVV against contract duration with players as details, provides visual insight into contract structures. By sizing markers according to total contract value and clustering to reveal potential trends, it facilitates understanding the relationship between player compensation, contract length, and team dynamics, enhancing project analysis.
+This a graph of AAV/years with players as the detail, size as total contract value, clusters to show any potential trends within this, and team labels. This graph, plotting AVV against contract duration with players as details, provides visual insight into contract structures. By sizing markers according to total contract value and clustering to reveal potential trends, it facilitates understanding the relationship between player compensation, contract length, and team dynamics, enhancing project analysis. Through this, we can conclude that certain teams tend to overpay for a given player. 
+
 
 #### Image #3 - Bar Chart
 ##### Answering Question 3
-This is a bar chart separating the different positions and comparing the total contract value within each group. We categorized the position groups into outfielders, infielders and starting pitchers. This is beneficial to help conceptualize the topic. This bar chart categorizes players by position, illustrating total contract value within each group. It aids in conceptualizing how player roles relate to financial investment, providing clarity on where resources are allocated across different positions. Understanding these patterns enhances project comprehension by highlighting position-specific trends in contract valuation.
+This is a bar chart separating the different positions and comparing the total contract value within each group. We categorized the position groups into outfielders, infielders and starting pitchers. This is beneficial to help conceptualize the topic. This bar chart categorizes players by position, illustrating total contract value within each group. It aids in conceptualizing how player roles relate to financial investment, providing clarity on where resources are allocated across different positions. Understanding these patterns enhances project comprehension by highlighting position-specific trends in contract valuation. Through this, we can conclude that Infielders are a more sought after target in the player market, earning significantly more in total contract value than outfielders and pitchers. 
 
 
 
