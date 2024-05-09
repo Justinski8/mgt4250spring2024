@@ -82,3 +82,7 @@ Teams allocate payroll differently based on factors like market size and revenue
 
 #####  Is a certain position group valued more than others based on the sum of their total contracts?
 The value placed on position groups varies in sports contracts. Typically, star players in premium positions like starting pitchers in baseball or quarterbacks in football command higher salaries due to their impact on game outcomes. However, other factors like market demand, team strategy, and player scarcity also influence contract values. While certain positions may generally receive more significant contracts, the distribution can fluctuate based on team needs and individual player performance.
+
+
+### External Validation
+Based on our data and comparing it to the article, it would suggest that since there was a low correlation between AAV and WAR (r-squared = 0.002, p-value=0.75) which would suggest that perhaps using WAR to aid financial decisions would be beneficial and eventually shift the market into a positive correlation. This would mean that teams with “deep pockets” would be making more efficient decisions with their money. We cannot conclude, however, how that would affect the breakdown of total contract value per position type.
