@@ -27,13 +27,13 @@ These questions are *especially* **important** because ...
 These three inquiries allow us to view the market for players in a more complete way. 
 
 ## Data Description
-#### Link to Our Data
+### Link to Our Data
 
 We created our own since there was nothing downloadable.
 
 https://elonuniversity-my.sharepoint.com/:x:/r/personal/dchristopher_elon_edu/Documents/Dataset.xlsx?d=wbf6685c4de4849468eecba0719961269&csf=1&web=1&e=V63la5 
 
-#### Columns of the Dataset
+### Columns of the Dataset
 - The rows contain the rankings of the top 50 based on the total value of the contract
 - The columns contains “Player”, “Position”, “Team”, “Years”, “AAV”, “2023 WAR”
 
