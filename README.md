@@ -65,9 +65,18 @@ This is a bar chart separating the different positions and comparing the total c
 
 
 ## Discussion and Summary
-#### Article Link + Summary
+### Article Link + Summary
 https://bleacherreport.com/articles/10017936-report-mlb-proposes-basing-player-salaries-off-fangraphs-war-instead-of-arbitration
 
 This article states that player arbitration, a three-year segment before a player is allowed free agency, should be determined through WAR rather than a legal arbitration process. The idea behind this is that WAR is such a valuable stat to summarize a player’s worth that it could be used in a mathematical way to determine a player's monetary worth. 
 
+### ChatGPT's Answers to Our Questions
 
+##### How does WAR correlate to annual salary among the top 50 highest paid players?
+The correlation between WAR and salary among the top 50 highest-paid players varies. While high WAR can drive top salaries, market demand, popularity, and negotiation skills also play roles. Generally, there's a positive correlation as teams invest in impactful players. Yet, exceptions occur due to contract complexities and team dynamics.
+
+##### How do teams and their largest contracts on payroll compare to one another?
+Teams allocate payroll differently based on factors like market size and revenue. Large-market teams often prioritize star players with higher salaries, boosting their championship competitiveness. Conversely, smaller-market teams focus on cost-effective talent development and strategic acquisitions. Despite variations, all teams aim to balance financial investments with on-field performance for success within their constraints.
+
+#####  Is a certain position group valued more than others based on the sum of their total contracts?
+The value placed on position groups varies in sports contracts. Typically, star players in premium positions like starting pitchers in baseball or quarterbacks in football command higher salaries due to their impact on game outcomes. However, other factors like market demand, team strategy, and player scarcity also influence contract values. While certain positions may generally receive more significant contracts, the distribution can fluctuate based on team needs and individual player performance.
