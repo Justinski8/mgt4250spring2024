@@ -16,8 +16,9 @@ These questions are *especially* **important** because ...
 [Elon University](https://elon.edu)
 
 ## Data Description
-## Interpreting Visualizations
-![Image 5-2-24 at 2 59 PM](https://github.com/Justinski8/mgt4250spring2024/assets/158494882/1ccf0651-46b4-495e-8b6e-c2a8246aa570)
+## Interpreting Visualizations / Tableau Public Link
+https://public.tableau.com/app/profile/justin.ziolkowski/vizzes
+
 ## Discussion and Summary
 
 ```python
