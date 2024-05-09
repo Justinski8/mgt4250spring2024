@@ -53,16 +53,19 @@ https://public.tableau.com/app/profile/justin.ziolkowski/vizzes
 #### Visualizations Built From Data
 ![Image 5-8-24 at 8 38 PM](https://github.com/Justinski8/mgt4250spring2024/assets/158494882/1c5ae3d4-e18a-47b5-9612-1850dc1abfd6)
 
+##### Answering Question 1
 This shows AAV by WAR with players as the detail. It also includes a median for both WAR and for AAV. In our MLB analysis, examining tplayers' performance relative to WAR is vital for gauging resource efficiency. Detailing Average Annual Value (AAV) by WAR, alongside median values, aids in comparing individual player data, revealing the correlation between salary and on-field contribution.
 
 
 <img width="584" alt="Screen Shot 2024-05-08 at 8 40 50 PM" src="https://github.com/Justinski8/mgt4250spring2024/assets/158494882/be4837d8-2225-45e9-b350-1a539e52915d">
 
+##### Answering Question 2
 This a graph of AAV/years with players as the detail, size as total contract value, clusters to show any potential trends within this, and team labels. This graph, plotting AVV against contract duration with players as details, provides visual insight into contract structures. By sizing markers according to total contract value and clustering to reveal potential trends, it facilitates understanding the relationship between player compensation, contract length, and team dynamics, enhancing project analysis.
 
 
 <img width="289" alt="Screen Shot 2024-05-08 at 8 44 18 PM" src="https://github.com/Justinski8/mgt4250spring2024/assets/158494882/fa8fc42c-3143-4c4f-be27-717f67940d70">
 
+##### Answering Question 3
 This is a bar chart separating the different positions and comparing the total contract value within each group. We categorized the position groups into outfielders, infielders and starting pitchers. This is beneficial to help conceptualize the topic. This bar chart categorizes players by position, illustrating total contract value within each group. It aids in conceptualizing how player roles relate to financial investment, providing clarity on where resources are allocated across different positions. Understanding these patterns enhances project comprehension by highlighting position-specific trends in contract valuation.
 
 
