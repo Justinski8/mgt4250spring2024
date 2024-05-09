@@ -20,11 +20,11 @@ Our overarching goal during this project is to analyze the performance of Major 
   
 ### Importance statement
 These questions are *especially* **important** because ...
-1. Reason 1
-2. Reason 2
-3. Reason 3
+1. These questions are essential in the landscape of modern baseball because as contracts are becoming more lucrative, we need to understand if they are really worth the money.
+2. To build off of this we must next know if certain teams have a proclivity to sign players to longer, wealthier contracts than others. 
+3. Lastly, we must know if, in the market for players, a certain type of position has a predisposition to earn more than another.
 
-[Elon University](https://elon.edu)
+These three inquiries allow us to view the market for players in a more complete way. 
 
 ## Data Description
 ## Interpreting Visualizations
